@@ -1,0 +1,7 @@
+[package]
+name = "rustwb_l1-8"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+dashmap = "6.0.1"
