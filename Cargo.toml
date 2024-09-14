@@ -5,3 +5,7 @@ edition = "2021"
 
 [dependencies]
 dashmap = "6.0.1"
+
+[[bin]]
+name = "dash"
+path = "src/DashMap.rs"
